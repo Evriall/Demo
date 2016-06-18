@@ -14,6 +14,7 @@
 		9AC63BD21D157662004BB96D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9AC63BD01D157662004BB96D /* LaunchScreen.storyboard */; };
 		9AC63BDD1D157662004BB96D /* DemoGitHubTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9AC63BDC1D157662004BB96D /* DemoGitHubTests.swift */; };
 		9AC63BE81D157662004BB96D /* DemoGitHubUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9AC63BE71D157662004BB96D /* DemoGitHubUITests.swift */; };
+		9AC63BF61D1578F6004BB96D /* TestFile.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9AC63BF51D1578F6004BB96D /* TestFile.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		9AC63BE31D157662004BB96D /* DemoGitHubUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = DemoGitHubUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		9AC63BE71D157662004BB96D /* DemoGitHubUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DemoGitHubUITests.swift; sourceTree = "<group>"; };
 		9AC63BE91D157662004BB96D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9AC63BF51D1578F6004BB96D /* TestFile.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TestFile.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +79,7 @@
 		9AC63BBB1D157662004BB96D = {
 			isa = PBXGroup;
 			children = (
+				9AC63BF51D1578F6004BB96D /* TestFile.swift */,
 				9AC63BC61D157662004BB96D /* DemoGitHub */,
 				9AC63BDB1D157662004BB96D /* DemoGitHubTests */,
 				9AC63BE61D157662004BB96D /* DemoGitHubUITests */,
@@ -256,6 +259,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9AC63BF61D1578F6004BB96D /* TestFile.swift in Sources */,
 				9AC63BCA1D157662004BB96D /* ViewController.swift in Sources */,
 				9AC63BC81D157662004BB96D /* AppDelegate.swift in Sources */,
 			);
