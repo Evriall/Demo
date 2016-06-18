@@ -4,7 +4,7 @@
 //
 //  Created by Sergey Guznin on 18.06.16.
 //  Copyright © 2016 Sergey Guznin. All rights reserved.
-//
+//  This is a comment
 
 import UIKit
 
