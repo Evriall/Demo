@@ -6,6 +6,7 @@
 //  Copyright © 2016 Sergey Guznin. All rights reserved.
 //  This is a comment
 //    This is comment 2
+//  This is last change
 
 import UIKit
 
